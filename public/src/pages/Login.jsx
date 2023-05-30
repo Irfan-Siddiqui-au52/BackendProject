@@ -129,7 +129,7 @@ input {
   padding: 1rem;
   border: 0.15rem solid #4e0eff;
   border-radius: 0.4rem;
-  color: Black;
+  color: white;
   width: 100%;
   font-size: 1.2rem;
   &:focus {
